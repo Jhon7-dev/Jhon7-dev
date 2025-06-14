@@ -1,12 +1,24 @@
-- 👋 Hi, I’m @Jhon7-dev
-- 👀 I’m interested in desenvolver novas softskills
-- 🌱 I’m currently learning java/html-css
-- 💞️ I’m looking to collaborate on meus conhecimentos
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Hi, I’m  João Victor 
+🎓 Estudante de Análise e Desenvolvimento de Sistemas – 21 anos  
+📍 Sorocaba - SP  
+🧠 Atualmente focado em aprender Java, HTML e CSS  
+🚀 Desenvolvendo projetos práticos para aprimorar lógica de programação e POO  
+🤝 Buscando oportunidades para aplicar conhecimento e crescer na área de tecnologia  
 
-<!---
-Jhon7-dev/Jhon7-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🛠️ Habilidades em Desenvolvimento
+
+- Java (Orientação a Objetos)
+- Lógica de Programação
+- HTML5 e CSS3
+- Git e GitHub
+- VS Code
+
+- ## 📌 Repositórios em Destaque
+
+- `simulador-conta-bancaria`: Projeto com funcionalidade de conta com cheque especial e regras de operação
+- `perfil-saude-usuario`: Classe Java que simula o perfil de saúde de uma pessoa com cálculo de IMC e frequência cardíaca
+- `algoritmos-java`: Exercícios práticos de lógica e estrutura de repetição em Java
+
+## Contato
+- [LinkedIn](https://www.linkedin.com/in/joão-victor-gomes-de-souza-78a18312e)
+- Instagram: `@jhonny_sonzaa`
