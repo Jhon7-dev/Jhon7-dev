@@ -11,7 +11,7 @@
 - Lógica de Programação
 - HTML5 e CSS3
 - Git e GitHub
-- VS Code
+- VS Code , Eclipse e IntelliJ
 
 - ## 📌 Repositórios em Destaque
 
