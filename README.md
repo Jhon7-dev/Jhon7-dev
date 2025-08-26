@@ -1,5 +1,5 @@
 - 👋 Hi, I’m  João Victor 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas – 21 anos  
+🎓 Estudante de Análise e Desenvolvimento de Sistemas – 22 anos  
 📍 Sorocaba - SP  
 🧠 Atualmente focado em aprender Java, HTML e CSS  
 🚀 Desenvolvendo projetos práticos para aprimorar lógica de programação e POO  
