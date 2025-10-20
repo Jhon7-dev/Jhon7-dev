@@ -12,7 +12,7 @@
 - HTML5/CSS3/JS
 - Python
 - Git e GitHub
-- VS Code , Eclipse e IntelliJ
+- VS Code , Eclipse e Jupyter
 
 - ##  Repositórios em Destaque
 
