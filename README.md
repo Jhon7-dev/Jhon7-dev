@@ -1,25 +1,38 @@
--  Hi, I’m  João Victor 
- -Estudante de Análise e Desenvolvimento de Sistemas – 22 anos  
- -Sorocaba - SP  
- -Atualmente focado em aprender Java, HTML e CSS  
- -Desenvolvendo projetos práticos para aprimorar lógica de programação e POO  
- -Buscando oportunidades para aplicar conhecimento e crescer na área de tecnologia  
+# 💻João Victor
 
-##  Habilidades em Desenvolvimento
+**`Desenvolvedora FullStack`**
 
-- Java (Orientação a Objetos)
-- Lógica de Programação
-- HTML5/CSS3/JS
-- Python
-- Git e GitHub
-- VS Code , Eclipse e Jupyter
+Olá, eu sou o João Victor, tenho 22 anos e sou natural do Rio de Janeiro. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Facens.
 
-- ##  Repositórios em Destaque
+### 🤖 Linguagens e Tecnologias
 
-- `simulador-conta-bancaria`: Projeto com funcionalidade de conta com cheque especial e regras de operação
-- `perfil-saude-usuario`: Classe Java que simula o perfil de saúde de uma pessoa com cálculo de IMC e frequência cardíaca
-- `algoritmos-java`: Exercícios práticos de lógica e estrutura de repetição em Java
+ <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+ <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+ <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
 
-## Contato
-- [LinkedIn](https://www.linkedin.com/in/joão-victor-gomes-de-souza-78a18312e)
-- Instagram: `@jhonny_sonzaa`
+<br/>
+<br/>
+
+### 📊 Estatísticas
+<div style="display: flex; gap: 10px;">
+  <img 
+    alt="GitHub Stats" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api?username=Jhon7-dev&show_icons=true&theme=tokyonight&locale=pt-br" 
+  />
+  <img 
+    alt="Top Langs" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhon7-dev&layout=compact&theme=tokyonight&locale=pt-br&custom_title=Tecnologias&langs_count=7" 
+  />
+</div>
