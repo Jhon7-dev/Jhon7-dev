@@ -30,11 +30,11 @@ Olá, eu sou o João Victor, tenho 22 anos e sou natural do Rio de Janeiro. Atua
 
 ### 📊 Estatísticas
 <div style="display: flex; gap: 10px;">
-  <img 
+  <!-- <img 
     alt="GitHub Stats" 
     height="200" 
     src="https://github-readme-stats.vercel.app/api?username=Jhon7-dev&show_icons=true&theme=tokyonight&locale=pt-br" 
-  />
+  /> -->
   <img 
     alt="Top Langs" 
     height="200" 
